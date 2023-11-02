@@ -8,8 +8,8 @@ on:
 jobs:
   core:
     runs-on: ubuntu-latest
-    container:
-      image: node:14
+    # container:
+    #   image: node:14
     steps:
       - name: Check git version
         run: git --version

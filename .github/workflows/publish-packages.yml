@@ -19,6 +19,9 @@ jobs:
         with:
           fetch-depth: '0'
           submodules: 'recursive'
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '14'
 
       - name: Install dependencies
         run: |

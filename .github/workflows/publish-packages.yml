@@ -25,7 +25,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          apk add --no-cache ca-certificates git openssh-client
+          sudo apt-get update
+          sudo apt-get install -y ca-certificates git openssh-client
           yarn --pure-lockfile --cache-folder /tmp/.yarn_cache
 
       - name: Cache node modules
@@ -93,4 +94,4 @@ jobs:
             --build-arg VERSION=$(press --version) \
             --tag blend/press \
             pkgs/press
-          press push blend/press --repo="percolate/blend/press" --semver=$(press --version)
+          press push blend/press --repo="tibetegya/blend/press" --semver=$(press --version)

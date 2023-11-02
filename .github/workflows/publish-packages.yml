@@ -11,6 +11,9 @@ jobs:
     container:
       image: node:14-alpine
     steps:
+      - name: Check git version
+        run: git --version
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:

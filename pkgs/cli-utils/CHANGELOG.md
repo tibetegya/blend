@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2023-11-02)
+
+
+### Bug Fixes
+
+* execSync arg type ([f861d80](https://github.com/tibetegya/blend/tree/master/pkgs/core/commit/f861d80553cf45ae34a458cdb405b0f04662455d))
+* expose IParallelizeOpts type def ([5695eb1](https://github.com/tibetegya/blend/tree/master/pkgs/core/commit/5695eb12ff259d20534cdc8809d095a10ce59c14))
+* lint command on windows ([91fafe2](https://github.com/tibetegya/blend/tree/master/pkgs/core/commit/91fafe2ecc9ab4ca781743460aa91e41dc4c4793))
+* ts command on windows ([c62163f](https://github.com/tibetegya/blend/tree/master/pkgs/core/commit/c62163f7e98f27124fce3c01f4f26f3ed814685e))
+* update chalk import ([642463e](https://github.com/tibetegya/blend/tree/master/pkgs/core/commit/642463e3bb538bb44c2c2e59c93a2b786bbf19e5))
+* verbose execSync duplicates error message ([e808ebe](https://github.com/tibetegya/blend/tree/master/pkgs/core/commit/e808ebe97b8d45a514c3388f577179ba6cf70889))
+
+
+### Features
+
+* **deployment:** add github actions ([9c94634](https://github.com/tibetegya/blend/tree/master/pkgs/core/commit/9c94634dd7b0c254ec02d7e62a58f9f9e108b1b8))
+* support passing childProcess.ExecSyncOptions to execSync ([3ccd443](https://github.com/tibetegya/blend/tree/master/pkgs/core/commit/3ccd443143012cc4d61afbe3ec27ad9cd7b6fd8c))
+
+
+
+
+
 ## [0.1.17](https://github.com/percolate/blend/tree/master/pkgs/core/compare/@percolate/cli-utils@0.1.16...@percolate/cli-utils@0.1.17) (2021-09-15)
 
 **Note:** Version bump only for package @percolate/cli-utils

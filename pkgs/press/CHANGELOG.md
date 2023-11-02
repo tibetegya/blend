@@ -3,6 +3,36 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.0.0 (2023-11-02)
+
+
+### Bug Fixes
+
+* --repo default value ([f6efb4a](https://github.com/tibetegya/blend/tree/master/pkgs/press/commit/f6efb4a22a6c9cec05e63d6d5924057962629938))
+* branch tag ([efeb304](https://github.com/tibetegya/blend/tree/master/pkgs/press/commit/efeb304760adaf661b89c8dd1831e5c4bd363d2a))
+* press release --version arg ([df12b0b](https://github.com/tibetegya/blend/tree/master/pkgs/press/commit/df12b0b76e288826098c75d204c46393acdc5a83))
+* rename repo to project and fix basename ([9be842b](https://github.com/tibetegya/blend/tree/master/pkgs/press/commit/9be842b17a393443f6e198da51009e4145159de2))
+* tag for none master branch ([c9d53a6](https://github.com/tibetegya/blend/tree/master/pkgs/press/commit/c9d53a678a078961d57b9a74acf52796e5e32fa4))
+
+
+### Features
+
+* **deployment:** add github actions ([9c94634](https://github.com/tibetegya/blend/tree/master/pkgs/press/commit/9c94634dd7b0c254ec02d7e62a58f9f9e108b1b8))
+* add --semver support ([1641f3b](https://github.com/tibetegya/blend/tree/master/pkgs/press/commit/1641f3bf7b4c8ead054acb5020e273e982af0d98))
+* add `press sentry-cli` ([84f2995](https://github.com/tibetegya/blend/tree/master/pkgs/press/commit/84f2995f3309dea081205494c3bbb6bb894d4d69))
+* add support for GitHub Actions ([2fd08c4](https://github.com/tibetegya/blend/tree/master/pkgs/press/commit/2fd08c4794e91fbc3524caa7bb43b12a4209afd5))
+* automatically finalize release ([51403ac](https://github.com/tibetegya/blend/tree/master/pkgs/press/commit/51403ace8c561cf2ffe77a20eeb499431e5b6a1a))
+* update docker image to use node 14 ([2f6f38e](https://github.com/tibetegya/blend/tree/master/pkgs/press/commit/2f6f38e6e7caab85e7b65c3d2d22efc38b8de4b7))
+
+
+### BREAKING CHANGES
+
+* rename press release `--repo` to `--project`
+
+
+
+
+
 ## [1.2.17](https://github.com/percolate/blend/tree/master/pkgs/press/compare/@percolate/press@1.2.16...@percolate/press@1.2.17) (2021-09-15)
 
 **Note:** Version bump only for package @percolate/press

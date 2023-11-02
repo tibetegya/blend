@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2023-11-02)
+
+
+### Bug Fixes
+
+* change tabWidth for .babelrc to 2 ([e63d848](https://github.com/tibetegya/blend/tree/master/pkgs/prettier-config/commit/e63d84857ee7fa0a0d9df403ff03443379ba4222))
+* update lerna.json tabWidth ([a15c5d3](https://github.com/tibetegya/blend/tree/master/pkgs/prettier-config/commit/a15c5d3c07eaf5d169127a55c9574d5ae631ff5e))
+
+
+### Features
+
+* **deployment:** add github actions ([9c94634](https://github.com/tibetegya/blend/tree/master/pkgs/prettier-config/commit/9c94634dd7b0c254ec02d7e62a58f9f9e108b1b8))
+* add @percolate/prettier-config ([06779dc](https://github.com/tibetegya/blend/tree/master/pkgs/prettier-config/commit/06779dcf9ada13e76e2af07dfd4bfc2a8e2ffcee))
+
+
+
+
+
 ## [0.1.15](https://github.com/percolate/blend/tree/master/pkgs/prettier-config/compare/@percolate/prettier-config@0.1.14...@percolate/prettier-config@0.1.15) (2021-09-15)
 
 **Note:** Version bump only for package @percolate/prettier-config

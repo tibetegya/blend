@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2023-11-02)
+
+
+### Features
+
+* **deployment:** add github actions ([9c94634](https://github.com/tibetegya/blend/tree/master/pkgs/publisher/commit/9c94634dd7b0c254ec02d7e62a58f9f9e108b1b8))
+* rewrite using TS ([c5cf1a9](https://github.com/tibetegya/blend/tree/master/pkgs/publisher/commit/c5cf1a9044e370559fe25d5771549d1e39f2d151))
+
+
+
+
+
 ## [0.1.16](https://github.com/percolate/blend/tree/master/pkgs/publisher/compare/@percolate/publisher@0.1.15...@percolate/publisher@0.1.16) (2021-09-15)
 
 **Note:** Version bump only for package @percolate/publisher

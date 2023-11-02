@@ -1,6 +1,6 @@
 {
   "name": "@tibetegya/s3",
-  "version": "1.2.16",
+  "version": "1.3.0",
   "description": "CLI for various S3 commands",
   "license": "CPAL-1.0",
   "repository": "https://github.com/tibetegya/blend/tree/master/pkgs/s3",

@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.3.0 (2023-11-02)
+
+
+### Bug Fixes
+
+* dupe packages and pre-commit hook ([310d86a](https://github.com/tibetegya/blend/tree/master/pkgs/s3/commit/310d86a197b4ebbc7b0c6d53af9a7a49e260de91))
+
+
+### Features
+
+* **deployment:** add github actions ([9c94634](https://github.com/tibetegya/blend/tree/master/pkgs/s3/commit/9c94634dd7b0c254ec02d7e62a58f9f9e108b1b8))
+* convert to TS ([16ebf22](https://github.com/tibetegya/blend/tree/master/pkgs/s3/commit/16ebf2204dbdc2cadbf1920f2005dd9a21217292))
+
+
+
+
+
 ## [1.2.16](https://github.com/percolate/blend/tree/master/pkgs/s3/compare/@percolate/s3@1.2.15...@percolate/s3@1.2.16) (2021-09-15)
 
 **Note:** Version bump only for package @percolate/s3

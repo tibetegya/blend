@@ -1,5 +1,5 @@
 {
-  "name": "@percolate/press",
+  "name": "@tibetegya/press",
   "version": "1.2.17",
   "description": "CI release tooling",
   "bin": {
@@ -9,7 +9,7 @@
     "bin",
     "dist"
   ],
-  "repository": "https://github.com/percolate/blend/tree/master/pkgs/press",
+  "repository": "https://github.com/tibetegya/blend/tree/master/pkgs/press",
   "license": "CPAL-1.0",
   "scripts": {
     "build": "tsc --project .",

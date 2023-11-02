@@ -1,8 +1,8 @@
 {
-  "name": "@percolate/publisher",
+  "name": "@tibetegya/publisher",
   "version": "0.1.16",
   "description": "Publish package if version is newer than NPM's",
-  "repository": "https://github.com/percolate/blend/tree/master/pkgs/publisher",
+  "repository": "https://github.com/tibetegya/blend/tree/master/pkgs/publisher",
   "bin": {
     "publish": "bin/publish"
   },

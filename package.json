@@ -1,7 +1,7 @@
 {
   "license": "CPAL-1.0",
   "private": true,
-  "repository": "https://github.com/percolate/blend",
+  "repository": "https://github.com/tibetegya/blend",
   "scripts": {
     "build": "lerna run build",
     "clean": "lerna exec \"shx rm -rf dist/ node_modules/ tmp/\" && shx rm -rf node_modules/ tmp/",

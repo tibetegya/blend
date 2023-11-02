@@ -1,8 +1,8 @@
 {
-  "name": "@percolate/prettier-config",
+  "name": "@tibetegya/prettier-config",
   "version": "0.1.15",
   "description": "Percolate prettier config",
-  "repository": "https://github.com/percolate/blend/tree/master/pkgs/prettier-config",
+  "repository": "https://github.com/tibetegya/blend/tree/master/pkgs/prettier-config",
   "license": "CPAL-1.0",
   "main": "prettier-config.json",
   "publishConfig": {

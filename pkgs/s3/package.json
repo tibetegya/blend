@@ -1,9 +1,9 @@
 {
-  "name": "@percolate/s3",
+  "name": "@tibetegya/s3",
   "version": "1.2.16",
   "description": "CLI for various S3 commands",
   "license": "CPAL-1.0",
-  "repository": "https://github.com/percolate/blend/tree/master/pkgs/s3",
+  "repository": "https://github.com/tibetegya/blend/tree/master/pkgs/s3",
   "bin": {
     "s3": "bin/s3"
   },
